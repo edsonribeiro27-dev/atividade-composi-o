@@ -1,0 +1,11 @@
+name: atividade_composicao
+description: Atividade de composição de classes em Dart.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^5.0.0
